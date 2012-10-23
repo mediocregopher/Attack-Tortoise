@@ -1,7 +1,7 @@
 '''
 Created on Apr 4, 2009
 
-@author: God
+@author: MediocreGopher
 '''
 import pygame
 import os.path

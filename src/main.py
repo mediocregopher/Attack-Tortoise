@@ -1,7 +1,7 @@
 '''
 Created on Mar 22, 2009
 
-@author: God
+@author: MediocreGopher
 '''
 import time
 import pygame

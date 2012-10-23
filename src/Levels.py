@@ -1,7 +1,7 @@
 '''
 Created on Apr 7, 2009
 
-@author: God
+@author: MediocreGopher
 '''
 from Things import *
 

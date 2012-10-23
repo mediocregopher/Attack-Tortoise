@@ -1,7 +1,7 @@
 '''
 Created on Jul 22, 2009
 
-@author: God
+@author: MediocreGopher
 '''
 
 class Register:
